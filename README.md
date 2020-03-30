@@ -77,7 +77,7 @@ function myCar(carType){
   console.log(`I drive a fancy ass ${carType}!`)
 }
 
-carType('Tesla X')
+myCar('Tesla X')
 ```
 
 ```
