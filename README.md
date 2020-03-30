@@ -46,12 +46,12 @@ is less than 21 and "🤡 Welcome to the clurb! 🚀" if the parameter is 21 or 
 
 ### Scope in JavaScript
 
-1. What is lexical scope?
+9. What is lexical scope?
 
 ```
 ```
 
-2. What would be printed to the console in the example below? Why?
+10. What would be printed to the console in the example below? Why?
 
 ```javascript
 let carType = "Honda Civic"
@@ -66,7 +66,7 @@ carType('Tesla X')
 ```
 ```
 
-3. What would be printed to the console in the example below? Why?
+11. What would be printed to the console in the example below? Why?
 
 ```javascript
 let carType = "Honda Civic"
@@ -81,7 +81,7 @@ carType('Tesla X')
 ```
 ```
 
-4. Write out what would be printed to the console, in order, if the script below were run in a browser. 
+12. Write out what would be printed to the console, in order, if the script below were run in a browser. 
 
 ```javascript
 
@@ -113,7 +113,7 @@ console.log(otherPerson)
 ```
 ```
 
-5. What would be printed to the console in the example below? Why?
+13. What would be printed to the console in the example below? Why?
 
 ```javascript
 if(true){
@@ -129,10 +129,10 @@ console.log(`My dog's name is ${dogName}`)
 
 #### Hoisting
 
-1. In your own words, describe hoisting?
+14. In your own words, describe hoisting?
 
 
-2. If I had a JavaScript file with the following code, what would happen in each of the function calls below? Why?
+15. If I had a JavaScript file with the following code, what would happen in each of the function calls below? Why?
 
 ```javascript
 bark()
@@ -150,7 +150,7 @@ let meow = function(){
 ```
 ```
 
-3. What will the console.log print in each of the examples below? Why?
+16. What will the console.log print in each of the examples below? Why?
 
 ```javascript
 console.log(dogName)
@@ -167,7 +167,7 @@ const catName = "Houdini"
 ```
 ```
 
-4. What will the console.log print in the example below? Why?
+17. What will the console.log print in the example below? Why?
 
 ```javascript
 horse = "Benny"
@@ -178,36 +178,36 @@ var horse
 ```
 ```
 
-5. With regard to hoisting, what's the difference between `let`, `var`, and `const`
+18. With regard to hoisting, what's the difference between `let`, `var`, and `const`
 
 ```
 ```
 
 ### Variable declaration
 
-1. What are the differences between declaring variables using `let`, `var`, and `const`?
+19. What are the differences between declaring variables using `let`, `var`, and `const`?
 
 ```
 ```
 
 ### First Class Functions
 
-1. Write a function that accepts a number (e.g. *x*) as a parameter and returns an inner function that accepts a different number (e.g. *y*) as a parameter and returns the product of it and the number from the outer function.
+20. Write a function that accepts a number (e.g. *x*) as a parameter and returns an inner function that accepts a different number (e.g. *y*) as a parameter and returns the product of it and the number from the outer function.
 
 ```javascript
 ```
 
-2. Using the function from above, create a function that accepts a number as a parameter and returns its double. 
+21. Using the function from above, create a function that accepts a number as a parameter and returns its double. 
 
 ```javascript
 ```
 
-3. If you successfully got the question above working, explain how you utilized closures to do so?
+22. If you successfully got the question above working, explain how you utilized closures to do so?
 
 ```
 ```
 
-4. What would get printed to the console in the example below?
+23. What would get printed to the console in the example below?
 
 ```javascript
 let steven = {
