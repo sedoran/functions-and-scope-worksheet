@@ -81,33 +81,36 @@ carType('Tesla X')
 ```
 ```
 
-4. What would be printed in each of the console.log calls in the example below? Why?
+4. Write out what would be printed to the console, in order, if the script below were run in a browser. 
 
 ```javascript
 
-console.log(person) // write answer here
+console.log(person) 
 
 let person = "Lady Gaga"
 
 function someFunction(){
-  console.log(person) // write answer here
+  console.log(person)
 
   function otherFunction(){
     let otherPerson = "Madonna"
 
-    console.log(person) // write answer here
-    console.log(otherPerson) // write answer here
+    console.log(person)
+    console.log(otherPerson)
   }
 
   otherFunction()
 
-  console.log(person) // write answer here
-  console.log(otherPerson) // write answer here  
+  console.log(person)
+  console.log(otherPerson)
 }
 
 someFunction()
 
 console.log(otherPerson)
+```
+
+```
 ```
 
 5. What would be printed to the console in the example below? Why?
