@@ -201,6 +201,9 @@ var horse
 
 3. If you successfully got the question above working, explain how you utilized closures to do so?
 
+```
+```
+
 4. What would get printed to the console in the example below?
 
 ```javascript
