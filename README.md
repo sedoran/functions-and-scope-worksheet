@@ -1,3 +1,5 @@
+# Variables, Functions, and Scope in JS
+
 ### Writing functions in JavaScript
 
 1. Write a function named `hiWorld` that prints 'hello world' to the console
